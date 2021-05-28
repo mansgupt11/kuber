@@ -1,0 +1,11 @@
+[k8s-master]
+10.0.4.239
+
+[k8s-node]
+10.0.1.163
+10.0.4.196
+10.0.1.186
+
+[k8s:children]
+k8s-master
+k8s-node
